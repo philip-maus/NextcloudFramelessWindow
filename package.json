@@ -1,0 +1,26 @@
+{
+  "name": "nextcloud-frameless-window",
+  "productName": "Nextcloud Frameless Window",
+  "version": "1.0.0",
+  "description": "Nextcloud Frameless Window",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/getNameFromUser/NextcloudFramelessWindow",
+  "keywords": [
+    "Nextcloud",
+    "Frameless",
+    "Window"
+  ],
+  "author": "getNameFromUser",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.2",
+    "electron-packager": "^15.2.0"
+  },
+  "dependencies": {
+    "@electron/remote": "^1.2.0",
+    "electron-window-state": "^5.0.3"
+  }
+}

@@ -1,0 +1,5 @@
+body{user-select:none;background:#0082C9 linear-gradient(40deg,#0082c9 0%,#30b6ff 100%);font-family:Arial,sans-serif;color:#fff;position:fixed;top:1rem;bottom:1rem;left:1rem;right:1rem;-webkit-app-region:drag}
+label{display:block;font-weight:bold;padding-bottom:.5rem;font-size:2rem}input:focus{outline:none}button{cursor:pointer}#error{color:#faa;display:none;padding-top:.5rem}
+input,#save{border:none;border-radius:1rem;padding:.5rem 1rem;display:block;width:calc(100% - 2rem);font-size:1.25rem;-webkit-app-region:no-drag}
+#save{bottom:0;position:absolute;width:100%}#save:hover{background:linear-gradient(40deg,#0082c9 0%,#30b6ff 100%);color:#fff}
+#close{position:fixed;right:0;top:0;padding:.5rem.75rem;border-bottom-left-radius:1rem;border:none;color:#fff;background:none}#close:hover{background:red}
