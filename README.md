@@ -1,7 +1,7 @@
 # Nextcloud-Frameless-Window
 Your Nextcloud as an own frameless window.
 
-*TODO: Screenshots*
+![Screenshot](Screenshot.png)
 
 ## Configure your Nextcloud instance
 **NOTICE**: You need to setup a one-time configuration on your Nextcloud, which needs administrative permissions. 
